@@ -1,0 +1,421 @@
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:131: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4185: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3376: The name tf.log is deprecated. Please use tf.math.log instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/tensorflow_core/python/ops/nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:986: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:973: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+INFO:root:-    dev F1 Score: 0.49346879535558785
+INFO:root:-    Val p Score:0.40230905861456484
+INFO:root:-    Val r Score:0.849906191369606
+INFO:root:-    Val F1 Score:0.546112115732369
+INFO:root:-    dev F1 Score: 0.608
+INFO:root:-    Val p Score:0.7041719342604298
+INFO:root:-    Val r Score:0.5225140712945591
+INFO:root:-    Val F1 Score:0.5998922994076467
+INFO:root:-    dev F1 Score: 0.6466165413533835
+INFO:root:-    Val p Score:0.6708727655099895
+INFO:root:-    Val r Score:0.5984990619136961
+INFO:root:-    Val F1 Score:0.6326227069905801
+INFO:root:-    dev F1 Score: 0.6604215456674474
+INFO:root:-    Val p Score:0.6183618361836184
+INFO:root:-    Val r Score:0.6444652908067542
+INFO:root:-    Val F1 Score:0.6311437758383096
+INFO:root:-    dev F1 Score: 0.611260053619303
+INFO:root:-    Val p Score:0.6788036410923277
+INFO:root:-    Val r Score:0.4896810506566604
+INFO:root:-    Val F1 Score:0.5689373297002724
+INFO:root:-    dev F1 Score: 0.5595238095238095
+INFO:root:-    Val p Score:0.6794258373205742
+INFO:root:-    Val r Score:0.399624765478424
+INFO:root:-    Val F1 Score:0.503248670998228
+INFO:root:-    dev F1 Score: 0.6263982102908278
+INFO:root:-    Val p Score:0.597027250206441
+INFO:root:-    Val r Score:0.6782363977485929
+INFO:root:-    Val F1 Score:0.6350461133069829
+INFO:root:-    dev F1 Score: 0.6346153846153846
+INFO:root:-    Val p Score:0.6299810246679317
+INFO:root:-    Val r Score:0.6228893058161351
+INFO:root:-    Val F1 Score:0.6264150943396226
+INFO:root:-    dev F1 Score: 0.6302083333333334
+INFO:root:-    Val p Score:0.6623376623376623
+INFO:root:-    Val r Score:0.5262664165103189
+INFO:root:-    Val F1 Score:0.5865133298484057
+INFO:root:-    dev F1 Score: 0.6443298969072164
+INFO:root:-    Val p Score:0.6581986143187067
+INFO:root:-    Val r Score:0.5347091932457786
+INFO:root:-    Val F1 Score:0.5900621118012421
+################################################################################################
+add+ln
+
+####################################################################################################
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:131: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4185: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3376: The name tf.log is deprecated. Please use tf.math.log instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/tensorflow_core/python/ops/nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:986: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:973: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+INFO:root:-    dev F1 Score: 0.5499999999999999
+INFO:root:-    Val p Score:0.4602446483180428
+INFO:root:-    Val r Score:0.8470919324577861
+INFO:root:-    Val F1 Score:0.5964332892998678
+INFO:root:-    dev F1 Score: 0.6330275229357798
+INFO:root:-    Val p Score:0.5860719874804382
+INFO:root:-    Val r Score:0.702626641651032
+INFO:root:-    Val F1 Score:0.6390784982935154
+INFO:root:-    dev F1 Score: 0.5957446808510637
+INFO:root:-    Val p Score:0.6749156355455568
+INFO:root:-    Val r Score:0.5628517823639775
+INFO:root:-    Val F1 Score:0.6138107416879794
+INFO:root:-    dev F1 Score: 0.6042780748663101
+INFO:root:-    Val p Score:0.6595744680851063
+INFO:root:-    Val r Score:0.5816135084427767
+INFO:root:-    Val F1 Score:0.6181455633100698
+INFO:root:-    dev F1 Score: 0.6034063260340633
+INFO:root:-    Val p Score:0.6252252252252253
+INFO:root:-    Val r Score:0.651031894934334
+INFO:root:-    Val F1 Score:0.6378676470588235
+INFO:root:-    dev F1 Score: 0.6384976525821596
+INFO:root:-    Val p Score:0.6125560538116592
+INFO:root:-    Val r Score:0.6407129455909943
+INFO:root:-    Val F1 Score:0.6263182026593306
+INFO:root:-    dev F1 Score: 0.5590778097982709
+INFO:root:-    Val p Score:0.7
+INFO:root:-    Val r Score:0.49906191369606
+INFO:root:-    Val F1 Score:0.5826944140197152
+INFO:root:-    dev F1 Score: 0.5876777251184834
+INFO:root:-    Val p Score:0.5975308641975309
+INFO:root:-    Val r Score:0.6810506566604128
+INFO:root:-    Val F1 Score:0.6365629110039456
+INFO:root:-    dev F1 Score: 0.6348448687350835
+INFO:root:-    Val p Score:0.6032285471537808
+INFO:root:-    Val r Score:0.6660412757973734
+INFO:root:-    Val F1 Score:0.6330806954971021
+INFO:root:-    dev F1 Score: 0.6265664160401002
+INFO:root:-    Val p Score:0.6258437801350049
+INFO:root:-    Val r Score:0.6088180112570356
+INFO:root:-    Val F1 Score:0.6172135045173562
+################################################################################################
+sub+ln
+
+####################################################################################################
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:131: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4185: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3376: The name tf.log is deprecated. Please use tf.math.log instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/tensorflow_core/python/ops/nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:986: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:973: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:131: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4185: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3376: The name tf.log is deprecated. Please use tf.math.log instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/tensorflow_core/python/ops/nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:986: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:973: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+INFO:root:-    dev F1 Score: 0.4619640387275242
+INFO:root:-    Val p Score:0.3333333333333333
+INFO:root:-    Val r Score:0.7823639774859287
+INFO:root:-    Val F1 Score:0.4674887892376681
+INFO:root:-    dev F1 Score: 0.6
+INFO:root:-    Val p Score:0.6634093376764386
+INFO:root:-    Val r Score:0.573170731707317
+INFO:root:-    Val F1 Score:0.6149974836436839
+INFO:root:-    dev F1 Score: 0.5863013698630136
+INFO:root:-    Val p Score:0.7040540540540541
+INFO:root:-    Val r Score:0.48874296435272047
+INFO:root:-    Val F1 Score:0.5769656699889258
+INFO:root:-    dev F1 Score: 0.6080760095011876
+INFO:root:-    Val p Score:0.6142595978062158
+INFO:root:-    Val r Score:0.6303939962476548
+INFO:root:-    Val F1 Score:0.6222222222222222
+INFO:root:-    dev F1 Score: 0.6372093023255815
+INFO:root:-    Val p Score:0.6044642857142857
+INFO:root:-    Val r Score:0.6350844277673546
+INFO:root:-    Val F1 Score:0.6193961573650503
+INFO:root:-    dev F1 Score: 0.6325167037861916
+INFO:root:-    Val p Score:0.5972222222222222
+INFO:root:-    Val r Score:0.6454033771106942
+INFO:root:-    Val F1 Score:0.6203787195671776
+INFO:root:-    dev F1 Score: 0.6334841628959277
+INFO:root:-    Val p Score:0.569935691318328
+INFO:root:-    Val r Score:0.6651031894934334
+INFO:root:-    Val F1 Score:0.6138528138528139
+INFO:root:-    dev F1 Score: 0.5689149560117303
+INFO:root:-    Val p Score:0.6903225806451613
+INFO:root:-    Val r Score:0.40150093808630394
+INFO:root:-    Val F1 Score:0.5077105575326216
+INFO:root:-    dev F1 Score: 0.6265664160401002
+INFO:root:-    Val p Score:0.6370967741935484
+INFO:root:-    Val r Score:0.5928705440900562
+INFO:root:-    Val F1 Score:0.6141885325558795
+INFO:root:-    dev F1 Score: 0.6169665809768636
+INFO:root:-    Val p Score:0.6626768226332971
+INFO:root:-    Val r Score:0.5712945590994372
+INFO:root:-    Val F1 Score:0.6136020151133502
+INFO:root:-    dev F1 Score: 0.6259541984732824
+INFO:root:-    Val p Score:0.6164772727272727
+INFO:root:-    Val r Score:0.6106941838649156
+INFO:root:-    Val F1 Score:0.6135721017907635
+INFO:root:-    dev F1 Score: 0.6253101736972704
+INFO:root:-    Val p Score:0.6335650446871897
+INFO:root:-    Val r Score:0.5984990619136961
+INFO:root:-    Val F1 Score:0.6155330438977328
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:131: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4185: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:131: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4185: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1521: The name tf.log is deprecated. Please use tf.math.log instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/tensorflow_core/python/ops/math_grad.py:1375: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:986: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:973: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:131: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4185: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1521: The name tf.log is deprecated. Please use tf.math.log instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/tensorflow_core/python/ops/math_grad.py:1375: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:986: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+WARNING:tensorflow:From /home/a931/anaconda3/envs/keras/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:973: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+INFO:root:-    dev F1 Score: 0.5851703406813628
+INFO:root:-    Val p Score:0.49706457925636005
+INFO:root:-    Val r Score:0.7148217636022514
+INFO:root:-    Val F1 Score:0.5863793766833396
+INFO:root:-    dev F1 Score: 0.5844155844155844
+INFO:root:-    Val p Score:0.4606686332350049
+INFO:root:-    Val r Score:0.8789868667917449
+INFO:root:-    Val F1 Score:0.604516129032258
+INFO:root:-    dev F1 Score: 0.643171806167401
+INFO:root:-    Val p Score:0.5992063492063492
+INFO:root:-    Val r Score:0.7082551594746717
+INFO:root:-    Val F1 Score:0.649183147033534
+INFO:root:-    dev F1 Score: 0.6430155210643016
+INFO:root:-    Val p Score:0.5910898965791567
+INFO:root:-    Val r Score:0.6969981238273921
+INFO:root:-    Val F1 Score:0.6396900559621179
+INFO:root:-    dev F1 Score: 0.6650831353919241
+INFO:root:-    Val p Score:0.6108597285067874
+INFO:root:-    Val r Score:0.6332082551594747
+INFO:root:-    Val F1 Score:0.6218332565637955
+INFO:root:-    dev F1 Score: 0.6478260869565217
+INFO:root:-    Val p Score:0.578125
+INFO:root:-    Val r Score:0.7288930581613509
+INFO:root:-    Val F1 Score:0.6448132780082987
+INFO:root:-    dev F1 Score: 0.6334056399132322
+INFO:root:-    Val p Score:0.5957613814756672
+INFO:root:-    Val r Score:0.7120075046904315
+INFO:root:-    Val F1 Score:0.6487179487179487
+INFO:root:-    dev F1 Score: 0.6394849785407725
+INFO:root:-    Val p Score:0.5902777777777778
+INFO:root:-    Val r Score:0.7176360225140713
+INFO:root:-    Val F1 Score:0.6477561388653684
+INFO:root:-    dev F1 Score: 0.6479591836734694
+INFO:root:-    Val p Score:0.6651835372636262
+INFO:root:-    Val r Score:0.5609756097560976
+INFO:root:-    Val F1 Score:0.6086513994910941
+INFO:root:-    dev F1 Score: 0.6280623608017818
+INFO:root:-    Val p Score:0.5859872611464968
+INFO:root:-    Val r Score:0.6904315196998124
+INFO:root:-    Val F1 Score:0.6339362618432386
+INFO:root:-    dev F1 Score: 0.639225181598063
+INFO:root:-    Val p Score:0.6314760508308895
+INFO:root:-    Val r Score:0.6060037523452158
+INFO:root:-    Val F1 Score:0.6184777405457157
+INFO:root:-    dev F1 Score: 0.6403712296983759
+INFO:root:-    Val p Score:0.6160877513711152
+INFO:root:-    Val r Score:0.6322701688555347
+INFO:root:-    Val F1 Score:0.624074074074074
+INFO:root:-    dev F1 Score: 0.6380090497737557
+INFO:root:-    Val p Score:0.6082474226804123
+INFO:root:-    Val r Score:0.6641651031894934
+INFO:root:-    Val F1 Score:0.6349775784753363
+INFO:root:-    dev F1 Score: 0.65
+INFO:root:-    Val p Score:0.6480908152734778
+INFO:root:-    Val r Score:0.5891181988742964
+INFO:root:-    Val F1 Score:0.6171990171990173
+INFO:root:-    dev F1 Score: 0.6450116009280742
+INFO:root:-    Val p Score:0.6268518518518519
+INFO:root:-    Val r Score:0.6350844277673546
+INFO:root:-    Val F1 Score:0.6309412861137
+INFO:root:-    dev F1 Score: 0.6425531914893617
+INFO:root:-    Val p Score:0.5700301204819277
+INFO:root:-    Val r Score:0.7101313320825516
+INFO:root:-    Val F1 Score:0.6324143692564745
+INFO:root:-    dev F1 Score: 0.6605922551252847
+INFO:root:-    Val p Score:0.6038851351351351
+INFO:root:-    Val r Score:0.6707317073170732
+INFO:root:-    Val F1 Score:0.6355555555555554
+INFO:root:-    dev F1 Score: 0.6473429951690821
+INFO:root:-    Val p Score:0.6179463459759482
+INFO:root:-    Val r Score:0.626641651031895
+INFO:root:-    Val F1 Score:0.6222636236609222
+INFO:root:-    dev F1 Score: 0.6365591397849463
+INFO:root:-    Val p Score:0.588597842835131
+INFO:root:-    Val r Score:0.7166979362101313
+INFO:root:-    Val F1 Score:0.6463620981387479
+INFO:root:-    dev F1 Score: 0.6222222222222221
+INFO:root:-    Val p Score:0.6345776031434185
+INFO:root:-    Val r Score:0.6060037523452158
+INFO:root:-    Val F1 Score:0.6199616122840691
